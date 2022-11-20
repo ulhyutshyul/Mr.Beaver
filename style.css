@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+header {
+    font-size: 20;
+    background-color: yellow;
+    border: 3px solid yellowgreen;
+    border-radius: 30;
+    width: 100%;
+    top: 0;
+}
+.f {
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+}
+
+
+
+.Beaver_table1 {
+    box-shadow: 0 10px 15px 0 orange;
+    width: 120px;
+    height: 310px;
+    float:left;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.Voprosa {
+    color: tomato;
+    text-align: 20px;
+}
+.ff {
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+}
+
+.Beaver_table2 {
+   box-shadow: 0 10px 15px 0 orange;
+    width: 120px;
+    height: 310px;
+    float: right;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.oo {
+   text-align: center;
+}
+
+.fff {
+   width: 100px;
+    height: 100px;
+    border-radius: 30%; 
+}
+
+.Beaver_table3 {
+    box-shadow: 0 10px 15px 0 orange;
+    width: 120px;
+    height: 310px;
+    margin-top: 20px;
+    float: left;
+}
+.ffff {
+   width: 100px;
+    height: 100px;
+    border-radius: 30%; 
+}
+
+.Beaver_table4 {
+   box-shadow: 0 10px 15px 0 orange;
+    width: 120px;
+    height: 310px;
+    margin-top: 20px;
+    float: right; 
+}
