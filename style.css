@@ -1,6 +1,7 @@
 body {
     text-align: center;
     flex-wrap: wrap;
+    background-color: rgb(186, 129, 240);
 }
 
 header {
@@ -10,6 +11,9 @@ header {
     border-radius: 30;
     width: 100%;
     top: 0;
+    height: 50px;
+    text-align: center;
+    
 }
 .f {
     width: 100px;
@@ -83,4 +87,57 @@ header {
     height: 50px;
     float: right;
     border-radius: 30%;
+}
+
+.Beaver_table4:hover{
+   box-shadow: 0 10px 15px 0 red;
+    width: 120px;
+    height: 310px;
+    margin-top: 20px;
+    float: right; 
+    top: 10%;
+}
+
+.Beaver_table3:hover{
+    box-shadow: 0 10px 15px 0 red;
+    width: 120px;
+    height: 310px;
+    margin-top: 20px;
+    float: left;
+    top: 10%;
+}
+
+
+.Beaver_table2:hover{
+   box-shadow: 0 10px 15px 0 red;
+    width: 120px;
+    height: 310px;
+    float: right;
+    margin-right: 0%;
+    margin-left: 0%;
+    top: 10%;
+}
+
+
+.Beaver_table1:hover{
+    box-shadow: 0 10px 15px 0 red;
+    width: 120px;
+    height: 310px;
+    float:left;
+    margin-right: 0%;
+    margin-left: 0%;
+    top: 10%;
+}
+
+.Video {
+    border-radius: 5%;
+}
+
+.fg {
+    padding-top: 20px;
+    background-color: white;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    color: lime;
 }
